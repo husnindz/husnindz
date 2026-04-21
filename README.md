@@ -27,6 +27,7 @@ I’m a data enthusiast with a strong foundation in end-to-end data processing, 
 | ----------- | ----------- |
 | [Anomaly Detection for Machine Failure Prediction](https://github.com/husnindz/Deep-Learning-Anomaly-Detection) | Built a sequence anomaly detection system on industrial sensor data using LSTM and Transformer Autoencoder to detect abnormal patterns and improve maintenance decisions. |
 | [Graduate Admission Prediction](https://github.com/husnindz/graduate-admission-prediction) | Built an XGBoost regression model with hyperparameter tuning to predict graduate admission probability and identify key influencing factors. |
+| [ETL Fashion Data Pipeline](https://github.com/husnindz/etl-fashion-dicoding) | Built a modular ETL pipeline to scrape, clean, and store multi-page product data with robust transformation, multi-destination loading (CSV, Google Sheets, PostgreSQL), and 90%+ test coverage. |
 
 ## 🔍 You Can Find Me at
 <p>
