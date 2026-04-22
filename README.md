@@ -41,9 +41,8 @@ I’m a data enthusiast with a strong foundation in end-to-end data processing, 
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=husnindz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=husnindz&layout=compact&theme=algolia&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=husnindz&layout=compact&langs_count=8&theme=algolia" height="180"/>
 </p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=husnindz&theme=algolia"/>
 </p>
